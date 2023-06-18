@@ -406,6 +406,9 @@ article {
   .section_proyecto img {
     width: 70%;
   }
+  .section_proy img {
+    width: 80%;
+  }
 }
 @media (max-width: 1255px) {
   .section_clientes img {
@@ -484,6 +487,9 @@ article {
   .section_nosotros_2 p {
     font-size: 1rem;
   }
+  .section_proy img {
+    width: 90%;
+  }
 }
 @media (max-width: 799px) {
   .pres_txt h1 {
@@ -513,6 +519,9 @@ article {
   }
   .section_nosotros_2 span img {
     width: 30%;
+  }
+  .section_proy span {
+    grid-template-columns: repeat(2, 45%);
   }
 }
 @media (max-width: 669px) {
@@ -555,7 +564,7 @@ article {
     align-items: center;
   }
   .header .nav.activo {
-    height: 50vh;
+    height: 40vh;
     pointer-events: auto;
   }
   .header .ul {
@@ -566,6 +575,12 @@ article {
   }
   .section_clientes img {
     width: 60%;
+  }
+  .section_proy span {
+    grid-template-columns: 100%;
+  }
+  .section_proy img {
+    width: 80%;
   }
 }
 @media (max-width: 420px) {
