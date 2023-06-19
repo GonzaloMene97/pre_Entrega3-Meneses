@@ -16,6 +16,5 @@ Trata sobre los diferentes clientes con quienes trabajaron los miembros de la em
 
 Se podrá visualizar algunos de los trabajos realizados realizados (desde la fotografía hasta el diseño). Y mostrando algunas de ellas.
 
-## contacto.html (Contacto)
-
-Un formulario para establecer el contacto con la empresa
+### Añadición de los proyectos de Jardín Botánico, Jardín Japonés y Mascotas
+En esta parte se puede visualizar los proyectos realizados para el Jardín Botánico "Prof. Atilio Lumbardo", el Jardín Japonés "HEI SEI" y las mascotas de algunos usuarios que contrantaron el servicio de fotografía.
